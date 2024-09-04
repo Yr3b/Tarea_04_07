@@ -1,8 +1,7 @@
 import Contador from "@/components/contador";
 import { Text, View ,Pressable, StyleSheet } from "react-native";
 import react, {useState} from 'react'
-import { FlipInEasyX } from "react-native-reanimated";
-import { red } from "react-native-reanimated/lib/typescript/reanimated2/Colors";
+
 
 const [isPressed,setIsPressed] = useState(false)
 

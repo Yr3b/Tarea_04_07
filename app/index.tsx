@@ -1,8 +1,6 @@
 import Contador from "@/components/contador";
 import { Text, View ,Pressable, StyleSheet } from "react-native";
 import react, {useState} from 'react'
-import { FlipInEasyX } from "react-native-reanimated";
-import { red } from "react-native-reanimated/lib/typescript/reanimated2/Colors";
 import Tarjeta from "@/components/Tarjeta";
 
 export default function Index() {
